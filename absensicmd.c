@@ -21,6 +21,8 @@ main(){
     printf("Alief Here!!!\n\n");
     printf("%d",i[7]);
     printf("Chiqo Rifky Saputra\n\n");
+    printf("%d",i[22]);
+    printf("Muhammad Syahna Zulfikar P \t\t");
     fungsiRamadhan();
     
     
